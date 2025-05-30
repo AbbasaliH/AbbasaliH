@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abbasali H Asamadi
-- 👀 I currently work on web designing and JS
-- 🌱 I’m currently learning and keep growing to reach a goal
+- 👀 Working as a Full-stack Developer at Eunoyaa Technology
+- 🌱 Hardly learning and keep growing to reach a goal
 
 
 
